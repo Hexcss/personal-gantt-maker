@@ -1,0 +1,49 @@
+{
+    "chart_name": "Project Initialization",
+    "sections": [
+    {
+        "section_name": "Project Initialization",
+        "tasks": [
+            {
+                "task_name": "Conduct Market Analysis",
+                "start_date": "2025-01-01",
+                "duration_days": 21,
+                "cost_estimate": 3000,
+                "description": "Analyst’s time and external research resources",
+                "is_critical": true
+            },
+            {
+                "task_name": "Identify Target Customer Segments",
+                "start_date": "2025-01-10",
+                "duration_days": 14,
+                "cost_estimate": 2000,
+                "description": "Analyst’s time for surveys, focus groups, or third-party data",
+                "is_critical": true
+            },
+            {
+                "task_name": "Evaluate Competitor Landscape",
+                "start_date": "2025-01-24",
+                "duration_days": 7,
+                "cost_estimate": 1500,
+                "description": "Researching competitors’ services, pricing, and market positioning",
+                "is_critical": true
+            },
+            {
+                "task_name": "Define Business Model and Revenue Streams",
+                "start_date": "2025-02-01",
+                "duration_days": 14,
+                "cost_estimate": 2500,
+                "description": "Strategist or consultant fees for refining the business model",
+                "is_critical": true
+            },
+            {
+                "task_name": "Prepare Project Budget and Funding Plan",
+                "start_date": "2025-02-01",
+                "duration_days": 14,
+                "cost_estimate": 2000,
+                "description": "Budgeting specialist fees and financial analysis",
+                "is_critical": true
+            }
+        ]
+    }
+]}

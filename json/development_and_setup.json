@@ -1,0 +1,81 @@
+{
+    "chart_name": "Development and Setup",
+    "sections": [
+    {
+        "section_name": "Development and Setup",
+        "tasks": [
+            {
+                "task_name": "Website Design and Development",
+                "start_date": "2025-05-01",
+                "duration_days": 42,
+                "cost_estimate": 8000,
+                "description": "Outsourcing fees for web design, development, and initial hosting costs.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Mobile App Development",
+                "start_date": "2025-05-15",
+                "duration_days": 56,
+                "cost_estimate": 12000,
+                "description": "Outsourcing fees for app development, integration, and app store setup.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Beta Testing and Feedback Integration",
+                "start_date": "2025-07-10",
+                "duration_days": 21,
+                "cost_estimate": 2000,
+                "description": "Cost of recruiting testers and handling any design or functionality adjustments.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Purchase or Lease Delivery Vehicles",
+                "start_date": "2025-05-01",
+                "duration_days": 28,
+                "cost_estimate": 15000,
+                "description": "Upfront costs for purchasing or leasing vehicles and initial maintenance.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Install GPS Tracking and Route Optimization Software",
+                "start_date": "2025-06-01",
+                "duration_days": 14,
+                "cost_estimate": 3000,
+                "description": "Hardware and software installation costs, setup fees.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Set Up Warehouse for Inventory Management",
+                "start_date": "2025-05-15",
+                "duration_days": 21,
+                "cost_estimate": 5000,
+                "description": "Initial setup costs for storage, shelving, and security for the warehouse.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Identify Local Suppliers and Negotiate Contracts",
+                "start_date": "2025-06-01",
+                "duration_days": 21,
+                "cost_estimate": 1500,
+                "description": "Consultation fees or expenses for supplier meetings and contract negotiations.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Establish Inventory Management System",
+                "start_date": "2025-06-10",
+                "duration_days": 14,
+                "cost_estimate": 2000,
+                "description": "Software or setup costs for inventory tracking and integration with app/website.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Order Initial Stock of Beverages and Snacks",
+                "start_date": "2025-06-30",
+                "duration_days": 7,
+                "cost_estimate": 10000,
+                "description": "Initial inventory purchase costs for beverages and snacks.",
+                "is_critical": true
+            }
+        ]
+    }
+]}

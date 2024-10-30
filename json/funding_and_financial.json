@@ -1,0 +1,49 @@
+{
+    "chart_name": "Funding and Financial Setup",
+    "sections": [
+    {
+        "section_name": "Funding and Financial Setup",
+        "tasks": [
+            {
+                "task_name": "Finalize Bank Loans",
+                "start_date": "2025-04-15",
+                "duration_days": 21,
+                "cost_estimate": 500,
+                "description": "Application fees and potential consulting fees for loan processing.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Apply for EU Regional Development Funds (ERDF)",
+                "start_date": "2025-04-15",
+                "duration_days": 28,
+                "cost_estimate": 1000,
+                "description": "Application preparation and fees, along with consulting costs if guidance is needed.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Seek Government Grants and Incentives",
+                "start_date": "2025-04-22",
+                "duration_days": 21,
+                "cost_estimate": 500,
+                "description": "Costs for preparing applications for grants and engaging any required consultancy services.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Prepare Investment Pitches",
+                "start_date": "2025-05-15",
+                "duration_days": 14,
+                "cost_estimate": 1500,
+                "description": "Preparation of pitch materials, potentially with graphic design or financial projections.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Offer Equity for Shareholder Investment",
+                "start_date": "2025-05-15",
+                "duration_days": 14,
+                "cost_estimate": 1000,
+                "description": "Legal fees for structuring equity offers and consulting on shareholder agreements.",
+                "is_critical": true
+            }
+        ]
+    }
+]}

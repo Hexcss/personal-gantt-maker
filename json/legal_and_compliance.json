@@ -1,0 +1,49 @@
+{
+    "chart_name": "Legal and Compliance",
+    "sections": [
+    {
+        "section_name": "Legal and Compliance",
+        "tasks": [
+            {
+                "task_name": "Obtain Alcohol Sales License",
+                "start_date": "2025-03-01",
+                "duration_days": 28,
+                "cost_estimate": 2000,
+                "description": "Application fees and legal consultation to ensure compliance with alcohol sale regulations.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Obtain Late-Night Operation Permits",
+                "start_date": "2025-03-15",
+                "duration_days": 21,
+                "cost_estimate": 1500,
+                "description": "Fees for permits, plus costs for consultations with local authorities if necessary.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Obtain Vehicle Registration and Commercial Permits",
+                "start_date": "2025-03-15",
+                "duration_days": 14,
+                "cost_estimate": 1000,
+                "description": "Vehicle registration fees and any additional commercial permit fees.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Procure Liability Insurance for Delivery and Product Safety",
+                "start_date": "2025-04-01",
+                "duration_days": 7,
+                "cost_estimate": 1500,
+                "description": "Coverage for product safety and potential delivery-related liabilities.",
+                "is_critical": true
+            },
+            {
+                "task_name": "Procure Insurance for Vehicles and Assets",
+                "start_date": "2025-04-01",
+                "duration_days": 7,
+                "cost_estimate": 1000,
+                "description": "Coverage for vehicles, warehouse, and equipment.",
+                "is_critical": true
+            }
+        ]
+    }
+]}
